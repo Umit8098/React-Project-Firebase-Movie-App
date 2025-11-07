@@ -27,5 +27,7 @@ yarn-error.log*
 # my_files
 /Readme_local.md
 Readme_local.md
+/Readme_deploy.md
+Readme_deploy.md
 /README_project-explane.md
 README_project-explane.md
