@@ -40,7 +40,10 @@
   
   --- 
   
-  <img src="./img/movie-detail.png" alt="movie-detail" width="700"/> 
+  <img src="./img/movie-detail1.png" alt="movie-detail1" width="700"/> 
+
+  ---
+  <img src="./img/movie-detail2.png" alt="movie-detail2" width="700"/> 
 
   ---
 
