@@ -74,14 +74,19 @@ body {
   padding: 1rem;
   display: flex;
   justify-content: center;
+  gap: 10px;
 }
 
 .search-input {
   height: 30px;
-  width: 300px;
+  /* width: 300px; */
+  width: 100px;
+  max-width: 300px; /* büyük ekranda 300px */
+  min-width: 0; /*flex container içindeki input’un “ben küçülmem” inadını kırar.*/
   border-radius: 5px;
   outline: none;
   border: none;
+  font-size: 16px;    /* iPhone text zoom bug fix */
 }
 
 .navbar {
