@@ -62,7 +62,7 @@ const Main = () => {
         />
         <button 
           type='submit' 
-          className='btn btn-primary px-4 ms-2 rounded-pill shadow-sm'
+          className='btn btn-primary px-4 ms-2 rounded-pill shadow-sm search-button'
         >Search</button>
       </form>
 

@@ -91,6 +91,13 @@ body {
   font-size: 16px;    /* iPhone text zoom bug fix */
 }
 
+.search-button {
+  height: 30px;           /* ✅ input ile eşit */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .navbar {
   padding: 1rem 3rem;
   background-color: #5a81bc !important;
