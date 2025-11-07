@@ -52,8 +52,6 @@
 </div>
  
 
----
-
 ## 📖 Description
 
 🔸 React, Firebase Authentication ve TMDB API kullanılarak geliştirilmiş modern bir **Film Keşif Uygulamasıdır**. Kullanıcılar kayıt olabilir, giriş yapabilir, film arayabilir, detaylarını görüntüleyebilir ve yalnızca giriş yapmış kullanıcıların erişebildiği korumalı sayfalarda gezinebilir.
