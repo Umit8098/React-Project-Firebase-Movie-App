@@ -1,6 +1,6 @@
 
 
-<h1 align="center">📌 React Material UI Example  </h1>
+<h1 align="center">📌 React Firebase Movie App  </h1>
 
 <div align="center">
   <h3>
