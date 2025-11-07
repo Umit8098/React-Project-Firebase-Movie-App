@@ -15,7 +15,6 @@
 
 <p align="center">
   <img src="./img/movie-app.gif" alt="React Movie App" width="800"/>
-  <img src="./img/recipe-app.gif" alt="React Movie App" width="800"/>
 </p>
 
 ## 📚 Table of Contents
