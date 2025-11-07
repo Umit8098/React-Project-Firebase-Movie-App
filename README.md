@@ -1,9 +1,4 @@
 
-
-
-
-
-
 <h1 align="center">📌 React Firebase Movie App</h1>
 
 <div align="center">
@@ -20,6 +15,7 @@
 
 <p align="center">
   <img src="./img/movie-app.gif" alt="React Movie App" width="800"/>
+  <img src="./img/recipe-app.gif" alt="React Movie App" width="800"/>
 </p>
 
 ## 📚 Table of Contents
