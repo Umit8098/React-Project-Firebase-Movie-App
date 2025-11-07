@@ -21,9 +21,11 @@ const Navbar = () => {
     <div>
         <nav className="navbar navbar-expand-lg">
             <div className='container-fluid'>
+
                 <Link to="/" className='navbar-brand text-white'>
                     <h4>UmitDev Movie App</h4>
                 </Link>
+                
                 <div className='d-flex text-white align-items-center'>
                     {/* {currentUser && <span className='me-3'>Welcome, {currentUser.displayName}</span>} */}
                     {currentUser ? (
@@ -35,7 +37,7 @@ const Navbar = () => {
                         <>
                             <button 
                                 to="/login" 
-                                className='ms-2 btn btn-outline-light' 
+                                className='btn btn-outline-light' 
                                 onClick={() => navigate("/login")}>Login
                             </button>
                             <button 
@@ -47,6 +49,7 @@ const Navbar = () => {
                         )                    
                     }
                 </div>
+
             </div>
         </nav>
     </div>
